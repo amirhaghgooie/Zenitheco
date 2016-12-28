@@ -1,0 +1,9 @@
+User-agent: *
+#Disallow:/blog/author/admin/
+#Disallow:/blog/index.php/author/admin/
+#Disallow:/blog/category/uncategorized/
+#Disallow:/blog/add-listing/
+#Disallow:/blog/wp-comments-post.php
+#Disallow:/blog/members/
+#Disallow:/blog/sample-css/
+#Disallow:/blog/my-account/
